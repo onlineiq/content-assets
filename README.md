@@ -1,2 +1,4 @@
-# content-assets
-Image assets and templates for AI education content
+# AI Education Content Assets
+
+Central repository for images and templates used in AI education content.
+
